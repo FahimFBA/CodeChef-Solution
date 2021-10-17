@@ -1,6 +1,20 @@
 # CodeChef Solution
 
+[![Tweet a thanks](https://img.shields.io/twitter/url?label=Tweet%20this%21&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA)](https://twitter.com/intent/tweet?text=Wow!&url=https://github.com/FahimFBA/handle-codeforces)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Fahim_FBA?style=social)](https://twitter.com/Fahim_FBA)
 
+![Language](https://img.shields.io/github/languages/count/FahimFBA/CodeChef-Solution?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/FahimFBA/CodeChef-Solution?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/FahimFBA/CodeChef-Solution?color=red&style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FahimFBA/CodeChef-Solution?color=bright&style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/FahimFBA/CodeChef-Solution?color=blue&style=for-the-badge)
+
+<br>
+
+## [Check the Website!](https://fahimfba.github.io/CodeChef-Solution/)
+
+
+<br>
 
 
 |  Problem Code | Problem Name   | Question  | Answer   |
