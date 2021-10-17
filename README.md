@@ -10,3 +10,4 @@
 |GROUPS | Chef and Groups| [Question](https://www.codechef.com/problems/GROUPS) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Chef_And_Groups.cpp) |
 |DIAGMOVE| Diagonal Movement | [Question](https://www.codechef.com/problems/DIAGMOVE) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Diagonal_Movement.cpp) |
 |INTEST| Enormous Input Test | [Question](https://www.codechef.com/problems/INTEST) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Enormous_Input_test.cpp) |
+|FLOW002| Find Remainder| [Question](https://www.codechef.com/problems/FLOW002) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Find_Remainder.cpp) |
