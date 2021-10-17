@@ -11,3 +11,4 @@
 |DIAGMOVE| Diagonal Movement | [Question](https://www.codechef.com/problems/DIAGMOVE) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Diagonal_Movement.cpp) |
 |INTEST| Enormous Input Test | [Question](https://www.codechef.com/problems/INTEST) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Enormous_Input_test.cpp) |
 |FLOW002| Find Remainder| [Question](https://www.codechef.com/problems/FLOW002) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Find_Remainder.cpp) |
+|FSQRT| Finding Square Roots | [Question](https://www.codechef.com/problems/FSQRT) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Finding_Square_Roots.py) |
