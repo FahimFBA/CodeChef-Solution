@@ -16,3 +16,13 @@
 |HDIVISR| Highest Divisor | [Question](https://www.codechef.com/problems/HDIVISR) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Highest_Divisor.cpp) |
 |VOWELTB| Is it a VOWEL or CONSONANT | [Question](https://www.codechef.com/problems/VOWELTB) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Is_It_VOWEL_or_CONSONANT.py) |
 |LUCKFOUR| Lucky Four | [Question](https://www.codechef.com/problems/LUCKFOUR) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Lucky_Four.cpp) |
+|MAXFUN| Maximise Function | [Question](https://www.codechef.com/problems/MAXFUN) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Maximise_Function.cpp) |
+|NOTIME| No Time to Wait | [Question](https://www.codechef.com/problems/NOTIME) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/No_Time_To_Wait.cpp) |
+|START01 | Number Mirror | [Question](https://www.codechef.com/problems/START01) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Number_Mirror.py) |
+|FLOW007|  Reverse The Number | [Question](https://www.codechef.com/problems/FLOW007) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Reverse_The_Number.c) |
+|FLOW017| Second Largest | [Question](https://www.codechef.com/problems/FLOW017) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Second_Largest.py) |
+|FCTRL2| Small factorials  | [Question](https://www.codechef.com/problems/FCTRL2) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/small_factorials.py) |
+|FLOW006| Sum of Digits | [Question](https://www.codechef.com/problems/FLOW006) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Sum_of_Digits.c) |
+|TSORT| Turbo Sort | [Question](https://www.codechef.com/problems/TSORT) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Turbo_Sort.cpp) |
+|SOCKS1| Valid Pair | [Question](https://www.codechef.com/problems/SOCKS1) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Valid_Pair.py) |
+|FLOW013| Valid Triangles | [Question](https://www.codechef.com/problems/FLOW013) | [Solution](https://github.com/FahimFBA/CodeChef-Solution/blob/main/Valid_Triangles.py)|
